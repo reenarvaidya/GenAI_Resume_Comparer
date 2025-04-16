@@ -1,4 +1,4 @@
-# 🤖 Resume Comparer – AI-Powered Candidate Ranking System
+# 🤖 Hireis-AI-Powered-Resume-Ranker-using-GenAI
 
 ## 🔍 About the Project
 
